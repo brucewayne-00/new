@@ -1,0 +1,1 @@
+ls, cd, pwd, cp, mv, rm, touch, mkdir, rmdir, cat, nano, vim, chmod, chown, ps, top, kill, man
